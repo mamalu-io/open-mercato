@@ -131,7 +131,7 @@
     "@types/react-big-calendar": "^1.16.3",
     "@types/semver": "^7.7.1",
     "cross-env": "^7.0.3",
-    "esbuild": "^0.25.0",
+    "esbuild": "^0.28.1",
     "eslint": "^9.39.1",
     "glob": "^13.0.6",
     "husky": "^9.1.7",
